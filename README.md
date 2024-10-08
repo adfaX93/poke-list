@@ -13,7 +13,7 @@ Asegúrate de tener instalado lo siguiente en tu máquina:
 
 1. **Clona el repositorio**:
    ```bash
-   git clone https://github.com/tu_usuario/poke-list.git
+   git clone https://github.com/adfaX93/poke-list.git
 
 2. **Navega al directorio del proyecto**:
    ```bash
