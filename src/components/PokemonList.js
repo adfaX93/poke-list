@@ -17,11 +17,6 @@ const ListItem = styled.div`
   width: 150px; /* Ancho del item de la lista */
 `;
 
-// Styled Component para ajustar las dimensiones de la imagen
-const PokemonImage = styled.img`
-  width: 80px; /* Ajustar el ancho de la imagen */
-  height: 80px; /* Ajustar la altura de la imagen */
-`;
 
 const PokemonList = ({ pokemons }) => {
     const dispatch = useDispatch(); // Hook de Redux para despachar acciones

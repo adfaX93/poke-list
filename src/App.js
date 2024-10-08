@@ -15,12 +15,6 @@ const AppContainer = styled(Container)`
   padding: 0;
 `;
 
-// Styled Component para el título principal
-const Title = styled.h2`
-  text-align: center;
-  margin: 80px 0 0 0;
-`;
-
 // Styled Component para centrar el botón de "Load more Pokémon"
 const ButtonContainer = styled.div`
   display: flex;
